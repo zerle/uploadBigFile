@@ -1,6 +1,6 @@
 # vue-demo
 
-> A Vue.js project
+> A Vue.js project--- 大文件上传和断点续传
 
 ## Build Setup
 
